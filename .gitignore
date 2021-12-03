@@ -29,10 +29,10 @@
 .packages
 .pub-cache/
 .pub/
-/linux/
-/android/
-/ios/
-/test/
+linux/
+android/
+ios/
+test/
 /build/
 
 # Web related
