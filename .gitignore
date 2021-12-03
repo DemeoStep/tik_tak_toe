@@ -29,6 +29,10 @@
 .packages
 .pub-cache/
 .pub/
+/linux/
+/android/
+/ios/
+/test/
 /build/
 
 # Web related
